@@ -21,7 +21,7 @@
 <a href="https://instagram.com/noouurr.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noouurr.exe" height="30" width="40" /></a>
 <a href="https://www.behance.net/nourmuhammed20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nourmuhammed20" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nourmuhammed20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nourmuhammed20" height="30" width="40" /></a>
-<a href="https://discord.gg/NourMuhammed#7410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NourMuhammed#7410" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/m6ZYgMFk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/m6ZYgMFk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
