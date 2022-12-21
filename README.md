@@ -1,11 +1,11 @@
-[![MasterHead](https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif)
+![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
 <h1 align="center">Hi 👋, I'm Nour Muhammed</h1>
 <h3 align="center">A passionate Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourmuhammed20&label=Profile%20views&color=0e75b6&style=flat" alt="nourmuhammed20" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nourmuhammed20" alt="nourmuhammed20" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 🌱 I’m currently learning **Advanced SQL,NOSQL,Oracle**
 
