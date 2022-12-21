@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif))
+[![MasterHead](https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif)
 <h1 align="center">Hi 👋, I'm Nour Muhammed</h1>
 <h3 align="center">A passionate Data Analyst</h3>
-img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourmuhammed20&label=Profile%20views&color=0e75b6&style=flat" alt="nourmuhammed20" /> </p>
 
