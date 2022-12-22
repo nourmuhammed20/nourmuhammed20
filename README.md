@@ -1,4 +1,4 @@
-![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
+![MasterHead](https://thumbs.gfycat.com/GoodnaturedHiddenChimneyswift-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm Nour Muhammed</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
