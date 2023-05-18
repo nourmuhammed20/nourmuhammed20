@@ -1,6 +1,6 @@
 ![MasterHead](https://thumbs.gfycat.com/GoodnaturedHiddenChimneyswift-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm Nour Muhammed</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A passionate Software Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourmuhammed20&label=Profile%20views&color=0e75b6&style=flat" alt="nourmuhammed20" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nourmuhammed20?tab=repositories](https://github.com/nourmuhammed20?tab=repositories)
 
-- 💬 Ask me about **Data Analysis**
+- 💬 Ask me about **Software Engineering**
 
 - 📫 How to reach me **nourmuhammed36@gmail.com**
 
