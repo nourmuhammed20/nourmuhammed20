@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif"  />
+<img alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 </div>
 
 ###
@@ -67,6 +67,6 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourmuhammed20&show_icons=true&locale=en&layout=compact" alt="nourmuhammed20" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nourmuhammed20&show_icons=true&locale=en" alt="nourmuhammed20" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nourmuhammed20" alt="nourmuhammed20" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourmuhammed20&show_icons=true&locale=en&layout=compact" alt="nourmuhammed20" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nourmuhammed20&show_icons=true&locale=en" alt="nourmuhammed20" /></p>
