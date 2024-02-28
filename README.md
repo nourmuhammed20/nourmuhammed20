@@ -2,6 +2,15 @@
     <img alt="Coding" width="500" src="https://media.giphy.com/media/bAplZhiLAsNnG/source.gif">
   </div>
 
+###
+
+<div  align="center">
+  <p><em>
+“People don't care about what you say, they care about what you build.”
+</em></p>
+</div>
+
+###
 <div align="center">
   <p > <img src="https://komarev.com/ghpvc/?username=nourmuhammed20&label=Profile%20views&color=0e75b6&style=flat" alt="nourmuhammed20" /> </p>
   <a href="https://www.linkedin.com/in/nourmuhammed20/" target="_blank">
