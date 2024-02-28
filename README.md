@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourmuhammed20&label=Profile%20views&color=0e75b6&style=flat" alt="nourmuhammed20" /> </p>
+  <p > <img src="https://komarev.com/ghpvc/?username=nourmuhammed20&label=Profile%20views&color=0e75b6&style=flat" alt="nourmuhammed20" /> </p>
   <a href="https://www.linkedin.com/in/nourmuhammed20/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
@@ -67,6 +67,6 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourmuhammed20&show_icons=true&locale=en&layout=compact" alt="nourmuhammed20" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourmuhammed20&show_icons=true&locale=en&layout=compact" alt="nourmuhammed20" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nourmuhammed20&show_icons=true&locale=en" alt="nourmuhammed20" /></p>
