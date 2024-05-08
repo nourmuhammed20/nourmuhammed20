@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Nour Muhammed from Egypt 𓂀<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Backend<br>- ⚡ In my free time I Work as GIS Technician 🗺️🧭</p>
+<p align="left">I'm Nour Muhammed from Egypt 𓂀<br><br>- 🔭 I work as Software Engineer<br>- 📚 I'm currently learning Backend<br>- ⚡ In my free time I Work as GIS Technician 🗺️🧭</p>
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
